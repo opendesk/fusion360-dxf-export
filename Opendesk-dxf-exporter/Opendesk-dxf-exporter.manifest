@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"9ed92271-dd1d-4d40-b926-1be5661660b4",
+	"author":	"Harry Keen",
+	"description":	{
+		"":	""
+	},
+	"version":	"1.0.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
